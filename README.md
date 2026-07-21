@@ -14,6 +14,6 @@ I enjoy building engaging applications and expanding my software development ski
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,laravel,python,ruby,rails,tailwind,postgresql&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=angular,react,laravel,python,java,ruby,rails,tailwind,postgresql&theme=dark&perline=9" />
   </a>
 </p>
