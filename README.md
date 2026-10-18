@@ -2,7 +2,7 @@
 
 I enjoy building engaging applications and expanding my software development skills. I also studied Computer Programming at İstanbul Kültür Üniversitesi.
 
-[Portfolio](https://ayberkaarda.github.io/) · [All repositories](https://github.com/ayberkaarda?tab=repositories)
+[Portfolio](https://ayberkaarda.github.io/en) · [All repositories](https://github.com/ayberkaarda?tab=repositories)
 
 ## You should check out
 -   [MediMind-AI](https://github.com/ayberkaarda/MediMind-AI-main) > Symptom assessment with an interactive body map, ranked model scores and a printable report. (React + FastAPI + Docker, bilingual docs)
